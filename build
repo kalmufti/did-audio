@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker rmi kalmufti/did-audio
+docker build -t kalmufti/did-audio .
